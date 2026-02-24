@@ -17,7 +17,7 @@ A modular POS system for small businesses with a scalable architecture that unif
 
 ### 🎓 Exam Prep Platform
 
-Adaptive e-learning platform that delivers structured exam preparation through high-yield practice, performance analytics, and personalized study plans on a freemium model.
+Adaptive e-learning platform for nurses that delivers structured exam preparation through high-yield practice, performance analytics, and personalized study plans on a freemium model.
 
 - Tech: TypeScript, React/Next.js, Node.js, PostgreSQL, Tailwind CSS, Stripe payment integration
 - Features: Adaptive question flows, progress analytics, study-plan generation, subscription billing
@@ -28,7 +28,7 @@ Adaptive e-learning platform that delivers structured exam preparation through h
 
 ### 🧩 UI Behavior Reverse Engineering Tool
 
-Captures real user interactions and UI changes, compresses them into structured traces, and feeds an AI agent to recreate interactive behavior from static assets.
+Captures real user interactions and UI changes, compresses them into structured traces, that can be fed to an AI agent to recreate interactive behavior from static assets.
 
 - Tech: Playwright, Chrome DevTools Protocol (CDP), TypeScript, Node.js, JSON/JSONL trace format
 - Features: Interaction recording, DOM/CSS state tracking, semantic diff compression, AI-ready behavior traces
