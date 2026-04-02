@@ -15,6 +15,17 @@ A modular POS system for small businesses with a scalable architecture that unif
 
 ---
 
+### ⌚️ ShiftSync — Staff Scheduling Platform
+
+A multi-location workforce scheduling platform with real-time shift management, a constraint engine that validates assignments against 8 labor and business rules, peer-to-peer shift swapping with manager approval, overtime compliance tracking, and fairness analytics — all synchronized via WebSockets across roles and timezones.
+
+- Tech: React, TypeScript, Node.js/Express, PostgreSQL, Socket.io, JWT Auth, Tailwind CSS
+- Features: Real-time shift sync, constraint-based validation, shift swap workflows, overtime compliance, fairness analytics
+- 🔗 Live: https://shift-sync-frontend-eta.vercel.app
+- 🔗 Repo: Private (available on request)
+
+---
+
 ### 🎓 Exam Prep Platform
 
 Adaptive e-learning platform for nurses that delivers structured exam preparation through high-yield practice, performance analytics, and personalized study plans on a freemium model.
