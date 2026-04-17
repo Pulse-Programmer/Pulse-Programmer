@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Stephen
 
 Full-Stack Engineer | React / Next.js | Node.js | PostgreSQL | Python | React Native (Expo)
-Portfolio: pulsecodr.com
+
+Portfolio: https://pulsecodr.com
 
 ## 🚀 Live Applications
 
